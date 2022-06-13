@@ -39,8 +39,9 @@ header nav {
 header nav ul {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
+  justify-content:;
+  align-items:;
+  flex-direction:
   list-style: none;
 }
 
