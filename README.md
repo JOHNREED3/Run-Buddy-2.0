@@ -12,3 +12,5 @@ A website that offers fitness training services.
 
 ## Contribution
 Made with love by John Reed!
+
+This update was created on my local machine.
