@@ -11,4 +11,4 @@ A website that offers fitness training services.
 
 
 ## Contribution
-Made with love by John Reed
+Made with love by John Reed!
