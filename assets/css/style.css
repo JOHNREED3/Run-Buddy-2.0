@@ -171,10 +171,6 @@ section {
 }
 /* SECTION TITLE STYLES END */
 
-/* WHAT WE DO STYLES */
-.intro { 
-}
-
 .intro p {
   line-height: 1.7;
   color: #39a6b2;
@@ -217,8 +213,6 @@ section {
 /* WHAT YOU DO STYLES END */
 
 /* MEET THE TRAINERS START */
-.trainers {
-}
 
 .trainer {
   width: 900px;
